@@ -10,7 +10,11 @@ import android.widget.Button;
 
 import com.example.weedya.account_confirmation.MoveTo;
 import com.example.weedya.account_confirmation.Navigation.SwitchToConf;
+import com.example.weedya.account_confirmation.Presenter.PinPresenter;
 import com.example.weedya.account_confirmation.R;
+import com.goodiebag.pinview.Pinview;
+
+import java.util.Objects;
 
 /**
  * A simple {@link Fragment} subclass.
